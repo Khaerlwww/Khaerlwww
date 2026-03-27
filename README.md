@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @Khaerlwww
+cat > README.md << 'EOF'
+# Hi, I'm Khaerl 👋
+
